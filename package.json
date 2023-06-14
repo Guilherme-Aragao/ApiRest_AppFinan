@@ -1,0 +1,21 @@
+{
+  "name": "curso-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.12.0",
+    "cypress-plugin-api": "^2.11.1",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
